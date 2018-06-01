@@ -1,0 +1,44 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+nav {
+  height: calc(80px + 2vw);
+  padding: calc(10px + 1vw) 0 calc(10px + 1vw) 0;
+}
+li {
+  list-style: none;
+}
+nav ol li {
+  float: left;
+  margin-left: calc(20px + 1.2vw);
+  margin-top: 25px;
+}
+nav ol li:first-of-type {
+  margin-top: 0;
+}
+nav ol li a {
+  font-size: calc(14px + 0.4vw);
+  text-decoration: none;
+  color: #3498db;
+}
+
+.main {
+  min-height: calc(400px + 20vh);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  height: 70px;
+  width: 150px;
+  margin-right: calc(150px + 4vw);
+}
+.content {
+  padding: calc(20px + 2vw);
+  background: #fff;
+  text-align: center;
+}
