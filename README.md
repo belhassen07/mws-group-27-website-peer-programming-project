@@ -1,1 +1,1 @@
-# This is the website of the official mobile web specialit gourp 27
+# This is the website of the official mobile web specialist group N:27
