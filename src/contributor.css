@@ -1,0 +1,35 @@
+.contributerContainer{
+    position: relative;
+    background: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    text-align: left;
+}
+
+.contributorName{
+    margin-left: 5%;   
+}
+
+.contributorDescription{
+    margin-left: 5%;
+    width: 60%;
+}
+
+.social{
+    display: inline-block;
+    margin-left: 5%;
+    margin-bottom: 3%;  
+    font-size: 3vw;
+}
+.link{
+    color: #7c7c7c;
+}
+.avatar{
+    top: 0%;
+    position: absolute;
+    margin-left: 78%;
+    width: 20%;
+    height: 80%;
+    margin-top: 2%;
+    border: 2px solid #999898;
+    border-radius: 20px;
+}
